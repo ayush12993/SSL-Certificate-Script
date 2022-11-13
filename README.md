@@ -24,17 +24,17 @@ Clone the project
 ```bash
   git clone https://github.com/ayush12993/SSL-Certificate-Script
 ```
-Before using this script make sure to edit this --
-```shell
-/C=yourcountry/ST=yourstate/L=yourcity/O=yourorganization/OU=Education/CN=*.yourdomain/emailAddress=youremailaddress
-```
+
 
 Go to the project directory
 
 ```bash
   cd SSL-Certificate-Script
 ```
-
+Before using this script make sure to edit this --
+```shell
+/C=yourcountry/ST=yourstate/L=yourcity/O=yourorganization/OU=Education/CN=*.yourdomain/emailAddress=youremailaddress
+```
 Run this script as root -
 
 ```bash
