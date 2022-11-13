@@ -48,3 +48,5 @@ List all the files
   ls
 ```
 
+display all the certificates.
+
