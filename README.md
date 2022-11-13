@@ -45,6 +45,6 @@ sudo ./cert.sh
 List all the files
 
 ```bash
-  npm run start
+  ls
 ```
 
